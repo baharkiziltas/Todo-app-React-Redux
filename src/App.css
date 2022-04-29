@@ -1,0 +1,35 @@
+.appdiv {
+  background-color: #7e6561;
+  width: 400px;
+  height: 600px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 50px;
+  margin-top: 150px;
+  margin-left: 700px;
+  border-radius: 10px;
+}
+
+.input {
+  width: 420px;
+  height: 30px;
+  border-radius: 8px;
+}
+
+.heading {
+  color: white;
+  padding-left: 60px;
+  font-size: x-large;
+}
+
+.mylist {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  list-style-type: none;
+
+}
+
+.deleteButton {
+  float: right;
+  background-color: rgb(129, 100, 100);
+}
